@@ -6,8 +6,9 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
-- 💬 Ask me about **https://t.me/Fazlidd1nBlog**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/f.ismoilovv)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fazlidd1nBlog)
 
 - 👨🏻‍💻 Contact Me **fazliddinismoilov234@gmail.com**
 
@@ -27,3 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazlidd1n&" alt="fazlidd1n" /></p>
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=fazlidd1n&icon=0&color=0)](https://visitcount.itsvg.in)
